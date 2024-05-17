@@ -75,14 +75,14 @@ profiles:
 #       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 
-# Highlighted Projects.
-## Multiple-instance Learning
+Highlighted Projects.
+  Multiple-instance Learning
 
-# Computational Imaging, Digital Holography
+  Computational Imaging, Digital Holography
 
-## Time Series Analysis
+  Time Series Analysis
 
-## Data Diversitification
+  Data Diversitification
 
 
 
