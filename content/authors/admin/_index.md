@@ -75,17 +75,25 @@ profiles:
 #       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 
-Highlighted Projects.
-  Multiple-instance Learning
+---
 
-  Computational Imaging, Digital Holography
+I am currently PhD student at Clemson University, where I am working with Dr. Razi at the AI-based Sensing, Networking, and Data Services (AI-SENDS) Research Group. My research interests include Machine Learning, Computer Vision, Computational Imaging, Multiple-instance Learning, Time Series Analysis, and Semantic Communication.
 
-  Time Series Analysis
-
-  Data Diversitification
 
 
 
 ---
+# Page title
+title: My page
+# Page type - we want a landing page (such as a homepage)
+type: landing
 
-I am currently PhD student at Clemson University, where I am working with Dr. Razi at the AI-based Sensing, Networking, and Data Services (AI-SENDS) Research Group. My research interests include Machine Learning, Computer Vision, Computational Imaging, Multiple-instance Learning, Time Series Analysis, and Semantic Communication.
+# Your landing page sections - add as many different content blocks as you like
+sections:
+  - block: markdown
+    id: section-1
+    content:
+      title: Section 1
+      subtitle: A subtitle
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+---
