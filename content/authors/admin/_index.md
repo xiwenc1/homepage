@@ -82,9 +82,9 @@ I am currently PhD student at Clemson University, where I am working with Dr. Ra
 ---
 ### News
 
-- **[2024/5]** Congrats! We have one paper *TimeMIL: Advancing Multivariate Time Series Classification via a Time-aware Multiple Instance Learning* has been accepted by ICML2024. 
-- **[2024/4]** Congrats! We have one paper *Imaging Signal Recovery Using Neural Network Priors Under Uncertain Forward Model Parameters* has been accepted by [PBDL@CVPR2024](https://pbdl-ws.github.io/pbdl2024/index.html) as **Oral Presentation**. 
-- **[2024/4]** Congrats! We have one paper *nnMobileNet: Rethinking CNN for Retinopathy Research* has been accepted by [DCAMI@CVPR2024](https://dca-in-mi.github.io/).
+- **[2024/5]** Congrats! Our paper *TimeMIL: Advancing Multivariate Time Series Classification via a Time-aware Multiple Instance Learning* has been accepted by ICML2024. 
+- **[2024/4]** Congrats! Our paper *Imaging Signal Recovery Using Neural Network Priors Under Uncertain Forward Model Parameters* has been accepted by [PBDL@CVPR2024](https://pbdl-ws.github.io/pbdl2024/index.html) as **Oral Presentation**. 
+- **[2024/4]** Congrats! Our paper *nnMobileNet: Rethinking CNN for Retinopathy Research* has been accepted by [DCAMI@CVPR2024](https://dca-in-mi.github.io/).
 
 
 
