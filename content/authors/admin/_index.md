@@ -77,7 +77,7 @@ profiles:
 
 ---
 
-I am currently PhD student at Clemson University, where I am working with Dr. Razi at the AI-based Sensing, Networking, and Data Services (AI-SENDS) Research Group. My research interests include Machine Learning, Computer Vision, Computational Imaging, Multiple-instance Learning, Time Series Analysis, and Information-theoretical Methods for AI, and Semantic Communication.
+I am currently a Ph.D. student at Clemson University, where I am working with Dr. Razi at the AI-based Sensing, Networking, and Data Services (AI-SENDS) Research Group. My research interests include Machine Learning, Computer Vision, Computational Imaging, Multiple-instance Learning, Time Series Analysis, and Information-theoretical Methods for AI, and Semantic Communication.
 
 ---
 ### News
