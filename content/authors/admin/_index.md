@@ -102,7 +102,7 @@ I am currently PhD student at Clemson University, where I am working with Dr. Ra
 
 #### Determinatal Point Processing (DPP) in Applications
 - **Chen, X.**, Li, H., Amin, R., & Razi, A. (2023). RD-DPP: Rate-Distortion Theory Meets Determinantal Point Process to Diversify Learning Data Samples. arXiv preprint arXiv:2304.04137. [[Paper]](https://arxiv.org/abs/2304.04137)
-- **Chen, X.**, Li, H., Amin, R., & Razi, A. (2023). Learning on Bandwidth Constrained Multi-Source Data with MIMO-inspired DPP MAP Inference. arXiv preprint arXiv:2306.02497. [[Paper]](https://arxiv.org/pdf/2306.02497)
+- **Chen, X.**, Li, H., Amin, R., & Razi, A. (2023). Learning on Bandwidth Constrained Multi-Source Data with MIMO-inspired DPP MAP Inference. arXiv preprint arXiv:2306.02497. [[Paper]](https://arxiv.org/pdf/2306.02497) (Accepted by IEEE TMLCN)
 
 #### Time Series Analysis
 - **Chen, X.**, Qiu, P., Zhu, W., Li, H., Wang, H., Sotiras, A., ... & Razi, A. TimeMIL: Advancing Multivariate Time Series Classification via a Time-aware Multiple Instance Learning (ICML2024). [[Paper]](https://arxiv.org/abs/2405.03140)
