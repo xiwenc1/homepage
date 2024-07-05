@@ -81,6 +81,7 @@ I am currently a Ph.D. student at Clemson University, where I am working with Dr
 
 ---
 ### News
+- **[2024/7]** Congrats! Our paper *DGR-MIL: Exploring Diverse Global Representation in Multiple Instance Learning for Whole Slide Image Classification* has been accepted by [ECCV2024](https://eccv.ecva.net/).
 - **[2024/6]** Congrats! Our paper *Learning on Bandwidth Constrained Multi-Source Data with MIMO-inspired DPP MAP Inference* has been accepted by [IEEE Trans. on Machine Learning in Communications and Networking](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9882533).
 - **[2024/6]** Congrats! Our paper *SelfReg-UNet: Self-Regularized UNet for Medical Image Segmentation* has been accepted by [MICCAI2024](https://conferences.miccai.org/2024/en/).
 - **[2024/6]** Congrats! Our paper *Quantification of cardiac capillarization in basement-membrane-immunostained myocardial slices using Segment Anything Model* has been accepted by Nature Scientific Reports. 
@@ -102,7 +103,7 @@ I am currently a Ph.D. student at Clemson University, where I am working with Dr
 
 #### Determinatal Point Processing (DPP) in Applications
 - **Chen, X.**, Li, H., Amin, R., & Razi, A. (2023). RD-DPP: Rate-Distortion Theory Meets Determinantal Point Process to Diversify Learning Data Samples. arXiv preprint arXiv:2304.04137. [[Paper]](https://arxiv.org/abs/2304.04137)
-- **Chen, X.**, Li, H., Amin, R., & Razi, A. (2023). Learning on Bandwidth Constrained Multi-Source Data with MIMO-inspired DPP MAP Inference. arXiv preprint arXiv:2306.02497. [[Paper]](https://arxiv.org/pdf/2306.02497) (Accepted by IEEE TMLCN)
+- **Chen, X.**, Li, H., Amin, R., & Razi, A. (2023). Learning on Bandwidth Constrained Multi-Source Data with MIMO-inspired DPP MAP Inference. [[Paper]](https://ieeexplore.ieee.org/document/10580972) (Accepted by IEEE TMLCN)
 
 #### Time Series Analysis
 - **Chen, X.**, Qiu, P., Zhu, W., Li, H., Wang, H., Sotiras, A., ... & Razi, A. TimeMIL: Advancing Multivariate Time Series Classification via a Time-aware Multiple Instance Learning (ICML2024). [[Paper]](https://arxiv.org/abs/2405.03140)
