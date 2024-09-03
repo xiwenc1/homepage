@@ -81,7 +81,8 @@ I am currently a Ph.D. student at Clemson University, where I am working with Dr
 
 ---
 ### News
-- **[2024/8]** Congrats! Our paper about data selection has been accepted by round 1 of [WACV2025](https://wacv2025.thecvf.com/). The accepetance of round 1 is 12% (=167/1381).
+- **[2024/8]** Congrats! Our paper about data selection has been accepted by round 1 of [WACV2025](https://wacv2025.thecvf.com/). The accepetance rate of round 1 is 12% (=167/1381).
+- **[2024/8]** I am invited as ICLR2025 Reviewer.
 - **[2024/8]** Congrats! Our paper about GNN for traffic network analysis has been accepted by [Sigspatial2024](https://sigspatial2024.sigspatial.org/) as Oral presentation.
 - **[2024/7]** Congrats! Our paper *DGR-MIL: Exploring Diverse Global Representation in Multiple Instance Learning for Whole Slide Image Classification* has been accepted by [ECCV2024](https://eccv.ecva.net/).
 - **[2024/6]** Congrats! Our paper *Learning on Bandwidth Constrained Multi-Source Data with MIMO-inspired DPP MAP Inference* has been accepted by [IEEE Trans. on Machine Learning in Communications and Networking](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9882533).
