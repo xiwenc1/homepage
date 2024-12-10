@@ -81,6 +81,7 @@ I am currently a Ph.D. student at Clemson University, where I am working with Dr
 
 ---
 ### News
+- **[2024/8]** Congrats! One paper about **multimodal Analysis** and One paper about **time series forecasting** are accpeted by [AAAI2025](https://aaai.org/conference/aaai/aaai-25/).
 - **[2024/8]** Congrats! Our paper about data selection has been accepted by round 1 of [WACV2025](https://wacv2025.thecvf.com/). The accepetance rate of round 1 is 12% (=167/1381).
 - **[2024/8]** I am invited as ICLR2025 Reviewer.
 - **[2024/8]** Congrats! Our paper about GNN for traffic network analysis has been accepted by [Sigspatial2024](https://sigspatial2024.sigspatial.org/) as Oral presentation.
