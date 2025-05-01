@@ -77,10 +77,14 @@ profiles:
 
 ---
 
-I am currently a Ph.D. student at Clemson University, where I am working with Dr. Razi at the AI-based Sensing, Networking, and Data Services (AI-SENDS) Research Group. My research interests include Machine Learning, Computer Vision, Computational Imaging, Multiple-instance Learning, Time Series Analysis, and Information-theoretical Methods for AI, and Semantic Communication.
+I am currently a Ph.D. student at Clemson University, where I am working with Dr. Razi at the AI-based Sensing, Networking, and Data Services (AI-SENDS) Research Group. My research interests include VLM/LLM, Machine Learning, Computer Vision, Computational Imaging, Multiple-instance Learning, Time Series Analysis, and Information-theoretical Methods for AI, and Semantic Communication.
 
 ---
 ### News
+- **[2025/5]** One paper about Time Series analysis and one paper about multiple-instance learning have been accepted in [ICML2025](https://icml.cc/Conferences/2025).
+- **[2025/4]** I am invited as a ECAI2025 Program Committee member.
+- **[2025/3]** Please check out our latest paper about VLM via Optimal Transport Constraint [[paper]](https://arxiv.org/pdf/2503.08906).
+- **[2025/2]** I am invited as a ICML2025 Reviewer.
 - **[2025/1]** I am invited as a KDD2025 Reviewer.
 - **[2025/1]** I am invited as a IJCAI2025 Program Committee member.
 - **[2024/12]** Congrats! One paper about **multimodal Analysis** and One paper about **time series forecasting** are accpeted by [AAAI2025](https://aaai.org/conference/aaai/aaai-25/).
@@ -99,7 +103,14 @@ I am currently a Ph.D. student at Clemson University, where I am working with Dr
 
 ---
 ### Featured Papers (By interest)
+
+#### VLM/LLM, Multimodal Analysis
+- **Chen, X.**, Zhu, W., Qiu, P., Wang, H., Li, H., Wu, H., ... & Razi, A. (2025). Prompt-OT: An Optimal Transport Regularization Paradigm for Knowledge Preservation in Vision-Language Model Adaptation. arXiv preprint arXiv:2503.08906. [[Paper]](https://arxiv.org/pdf/2503.08906)
+- Qiu, P., Zhu, W., Kumar, S., **Chen, X.**, Yang, J., Sun, X., ... & Sotiras, A. (2025, April). Multimodal Variational Autoencoder: a Barycentric View. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 39, No. 19, pp. 20060-20068).
+- Li, H., **Chen**, X., Zhang, C., Quan, S. F., Killgore, W. D., Wung, S. F., ... & Li, A. (2025). Enhancing Visual Inspection Capability of Multi-Modal Large Language Models on Medical Time Series with Supportive Conformalized and Interpretable Small Specialized Models. arXiv preprint arXiv:2501.16215.
+   Zhu, W., Li, **X., Chen**, X., Qiu, P., Vasa, V. K., Dong, X., ... & Wang, Y. (2025). RetinalGPT: A Retinal Clinical Preference Conversational Assistant Powered by Large Vision-Language Models. arXiv preprint arXiv:2503.03987.
 #### Mulitple-Instance Learning
+- Zhu, W., Qiu, P., **Chen, X.**, Yang, Z., Sotiras, A., Razi, A., & Wang, Y. (2025). How Effective Can Dropout Be in Multiple Instance Learning?. arXiv preprint arXiv:2504.14783. [[Paper]](https://arxiv.org/abs/2504.14783)
 - **Chen, X.**, Qiu, P., Zhu, W., Li, H., Wang, H., Sotiras, A., ... & Razi, A. TimeMIL: Advancing Multivariate Time Series Classification via a Time-aware Multiple Instance Learning (ICML2024). [[Paper]](https://arxiv.org/abs/2405.03140)
 #### Computational Imaging, Digital Holography
 - **Chen, X.**, Zhu, W., Qiu, P., & Razi, A. (2024). Imaging Signal Recovery Using Neural Network Priors Under Uncertain Forward Model Parameters ([PBDL@CVPR2024](https://pbdl-ws.github.io/pbdl2024/index.html)). [[paper]](https://openaccess.thecvf.com/content/CVPR2024W/PBDL/html/Chen_Imaging_Signal_Recovery_Using_Neural_Network_Priors_Under_Uncertain_Forward_CVPRW_2024_paper.html)
@@ -112,6 +123,7 @@ I am currently a Ph.D. student at Clemson University, where I am working with Dr
 - **Chen, X.**, Li, H., Amin, R., & Razi, A. (2024). Learning on Bandwidth Constrained Multi-Source Data with MIMO-inspired DPP MAP Inference. [[Paper]](https://ieeexplore.ieee.org/document/10580972) (Accepted by IEEE TMLCN)
 
 #### Time Series Analysis
+- **Chen, X.**, Qiu, P., Zhu, W., Li, H., Wang, H., Sotiras, A., ... & Razi, A. (2025). Sequence Complementor: Complementing Transformers For Time Series Forecasting with Learnable Sequences. AAAI2025
 - **Chen, X.**, Qiu, P., Zhu, W., Li, H., Wang, H., Sotiras, A., ... & Razi, A. TimeMIL: Advancing Multivariate Time Series Classification via a Time-aware Multiple Instance Learning (ICML2024). [[Paper]](https://arxiv.org/abs/2405.03140)
 - Li, H., Carreon-Rascon, A. S., **Chen, X.**, Yuan, G., & Li, A. (2024). MTS-LOF: medical time-series representation learning via occlusion-invariant features. IEEE Journal of Biomedical and Health Informatics. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10460072?casa_token=81VyZitbl5UAAAAA:hK1R_quQ6-koPXKzlAY2LMW6onMHlqVQHZhbRG96fK00oyiZYitx6fUkslacvIUVnNLDYAme)
 
