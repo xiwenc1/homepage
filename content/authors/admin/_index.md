@@ -81,6 +81,8 @@ I am currently a Ph.D. student at Clemson University, where I am working with Dr
 
 ---
 ### News
+- **[2025/8]** I am invited as a Program Committee member in AAAI-26 and AAAI-26-AIA.
+- **[2025/6]** One paper about about multiple-instance learning have been accepted in [ICCV2025](https://iccv.thecvf.com/).
 - **[2025/5]** One paper about Time Series analysis and one paper about multiple-instance learning have been accepted in [ICML2025](https://icml.cc/Conferences/2025).
 - **[2025/4]** I am invited as a ECAI2025 Program Committee member.
 - **[2025/3]** Please check out our latest paper about VLM via Optimal Transport Constraint [[paper]](https://arxiv.org/pdf/2503.08906).
