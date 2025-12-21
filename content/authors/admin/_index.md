@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD student in Computer Science
+role: Machine Learning Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Clemson University
-    url: # https://www.example.com/
+  - name: Morgan Stanley 
+    url: https://www.morganstanley.com/about-us/technology/machine-learning-research-team
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -77,15 +77,18 @@ profiles:
 
 ---
 
-I am currently a Ph.D. student at Clemson University, where I am working with Dr. Razi at the AI-based Sensing, Networking, and Data Services (AI-SENDS) Research Group. My research interests include VLM/LLM, Machine Learning, Computer Vision, Computational Imaging, Multiple-instance Learning, Time Series Analysis, and Information-theoretical Methods for AI, and Semantic Communication.
+I am currently a Machine Learning Researcher at Morgan Stanley. My research interests include VLM/LLM, Machine Learning, Computer Vision, Computational Imaging, Multiple-instance Learning, Time Series Analysis, and Information-theoretical Methods for AI, and Semantic Communication.
 
 ---
 ### News
+- **[2025/12]** One paper about VLM for information retrieval has been accepted in [WSDM2026](https://wsdm-conference.org/2026/).
+- **[2025/11]** Two papers about VLM alignment and pruning are accepted by [WACV2026](https://wacv.thecvf.com/).
+- I defended my dissertation and joined [Morgan Stanley](https://www.morganstanley.com/about-us/technology/machine-learning-research-team) as a Machine Learning Researcher.
 - **[2025/8]** I am invited as a Program Committee member in AAAI-26 and AAAI-26-AIA.
-- **[2025/6]** One paper about about multiple-instance learning have been accepted in [ICCV2025](https://iccv.thecvf.com/).
+- **[2025/6]** One paper about multiple-instance learning has been accepted in [ICCV2025](https://iccv.thecvf.com/).
 - **[2025/5]** One paper about Time Series analysis and one paper about multiple-instance learning have been accepted in [ICML2025](https://icml.cc/Conferences/2025).
 - **[2025/4]** I am invited as a ECAI2025 Program Committee member.
-- **[2025/3]** Please check out our latest paper about VLM via Optimal Transport Constraint [[paper]](https://arxiv.org/pdf/2503.08906).
+- **[2025/3]** Please check out our latest paper about VLM via Optimal Transport Constraint [[paper]](https://arxiv.org/pdf/2503.08906) .
 - **[2025/2]** I am invited as a ICML2025 Reviewer.
 - **[2025/1]** I am invited as a KDD2025 Reviewer.
 - **[2025/1]** I am invited as a IJCAI2025 Program Committee member.
